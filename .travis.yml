@@ -1,5 +1,6 @@
 node_js:
 - "stable"
+- "6"
 - "4"
 - "iojs"
 - "0.12"
